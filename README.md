@@ -1,4 +1,4 @@
-<h1 align="center"> Página de Receitas </h1>
+<h1 align="center"> Página de receita </h1>
 
 <p align="center">
 Evento exclusivo, promovido para ensino de tecnologias WEB.
@@ -23,10 +23,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 - Figma
+<br>
 
 ## 💻 Projeto
 
 O projeto "Página de receitas" foi feito com o intuito de desenvolvimento.
+<br>
 
 ## 🔖 Layout
 
