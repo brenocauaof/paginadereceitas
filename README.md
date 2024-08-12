@@ -16,10 +16,6 @@ Evento exclusivo, promovido para ensino de tecnologias WEB.
 
 <br>
 
-<p align="center">
-  <img alt="Projeto Página de Receitas" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
